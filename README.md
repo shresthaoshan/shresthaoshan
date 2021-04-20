@@ -1,20 +1,22 @@
+#### Hello there 👋
 
-### Hi there 👋
+## Oshan Shrestha
 
-I am a Computer Science undergrad from Kathmandu University. I am also a web developer, I do both frontend and backend. Stock NodeJs as well as ExpressJs+ReactJs+NextJs are my go-to tools, but I can also use other tools that suits the project that I am doing.
+[![github](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/github.png)](https://github.com/shresthaoshan) [![twitter](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png)](https://twitter.com/shrestha_oshan) [![LinkedIn](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png)](https://linkedin.com/in/oshan-shrestha) [![instagram](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png)](https://instagram.com/shrestha_oshan)
+
+- Computer Science **junior** at Kathmandu University.
+- **Backend Developer** at [BurgeonTech Nepal](https://www.burgeon.com.np).
 
 ---
 
-- 🔭 I’m currently working on:
-  - **[Dailygram](https://dlgm.herokuapp.com)** - One stop solution for your news updates.
-- 🌱 I’m currently learning:
-  - **[Covid-19 Contact Tracing](https://www.coursera.org/learn/covid-19-contact-tracing)** by **Johns Hopkins University** on **[Coursera](https://www.coursera.org/)**.
-  - **[Redux](https://redux.js.org/)** - A Predictable State Container for JS Apps.
-  - **[Vue.Js](https://vuejs.org/)** - The Progressive JavaScript Framework.
-- 👯 I’m looking to collaborate on:
-  - **React projects** (mainly those involving the use of **Redux** and **functional programming**).
-  - Any web projects that are related to **algorithm designs**.
-  
+#### Projects So far
+
+- Dailygram - A news aggregating web application.
+- KU Connect - A mobile application built on Flutter.
+- Opportunity - Mono-tab web browser with the help of UWP Webview implementation on C++.
+
+##### Resume: [https://resume.oshanshrestha.com.np](https://resume.oshanshrestha.com.np)
+
 ---
 
-[![alt text](http://i.imgur.com/0o48UoR.png)](https://github.com/shresthaoshan) [![alt text](http://i.imgur.com/tXSoThF.png)](https://twitter.com/shrestha_oshan) [![alt text](http://i.imgur.com/P3YfQoD.png)](https://facebook.com/oshan.shr)
+![Oshan Shrestha's github stats](https://github-readme-stats.vercel.app/api?username=shresthaoshan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)
