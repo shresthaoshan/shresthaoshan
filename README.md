@@ -4,7 +4,7 @@
 
 [![github](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/github.png)](https://github.com/shresthaoshan) [![twitter](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png)](https://twitter.com/shrestha_oshan) [![LinkedIn](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png)](https://linkedin.com/in/oshan-shrestha) [![instagram](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png)](https://instagram.com/shrestha_oshan)
 
-- Computer Science **junior** at Kathmandu University.
+- Computer Science **senior** at Kathmandu University.
 - **Backend Developer** at [BurgeonTech Nepal](https://www.burgeon.com.np).
 
 ---
