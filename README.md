@@ -1,14 +1,8 @@
-#### Hello there 👋
+#### Hi! 👋
 
 ## Oshan Shrestha
 
 [![github](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/github.png)](https://github.com/shresthaoshan) [![twitter](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png)](https://twitter.com/shrestha_oshan) [![LinkedIn](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png)](https://linkedin.com/in/oshan-shrestha) [![instagram](https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png)](https://instagram.com/shrestha_oshan)
-
-#### Projects So far
-
-- Dailygram - A news aggregating web application.
-- KU Connect - A mobile application built on Flutter.
-- Opportunity - Mono-tab web browser with the help of UWP Webview implementation on C++.
 
 ##### Resume: [https://resume.oshanshrestha.com.np](https://resume.oshanshrestha.com.np)
 
