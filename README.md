@@ -8,7 +8,7 @@ I also contribute to private/work repositories via [@oshanshrestha-grepsr](https
 
 <p>
   <a href="https://oshanshrestha.com.np/"><img alt="Website" src="https://img.shields.io/badge/www-oshanshrestha.com.np-0A66C2?style=flat-square&logo=globe"></a>
-  <a href="https://instagram.com/shresthaoshan"><img alt="Instagram" src="https://img.shields.io/badge/-shresthaoshan-E4405F?style=flat-square&logo=instagram"></a>
+  <a href="https://instagram.com/shrestha_oshan"><img alt="Instagram" src="https://img.shields.io/badge/-shrestha__oshan-E4405F?style=flat-square&logo=instagram"></a>
   <a href="https://twitter.com/shrestha_oshan"><img alt="X" src="https://img.shields.io/badge/-@shrestha__oshan-000000?style=flat-square&logo=x"></a>
 </p>
 
@@ -51,7 +51,7 @@ Simplifies remote development on AWS EC2 so engineers can work on cloud machines
 ## Connect
 
 - Website: [oshanshrestha.com.np](https://oshanshrestha.com.np/)
-- GitHub: [@shresthaoshan](https://github.com/shresthaoshan)
+- Instagram: [@shrestha_oshan](https://github.com/shrestha_oshan)
 - X: [@shrestha_oshan](https://twitter.com/shrestha_oshan)
 
 ---
