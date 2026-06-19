@@ -1,6 +1,6 @@
 # Hi, I'm Oshan Shrestha
 
-Backend engineer from Kathmandu, Nepal, building distributed systems with microservices, Temporal, and AWS.
+Backend engineer from Lalitpur, Nepal, building distributed systems with microservices, Temporal, and AWS.
 
 I like turning complex workflows into reliable backend services: clear APIs, durable execution, observable systems, and infrastructure that can be operated with confidence.
 
