@@ -7,9 +7,9 @@ I like turning complex workflows into reliable backend services: clear APIs, dur
 I also contribute to private/work repositories via [@oshanshrestha-grepsr](https://github.com/oshanshrestha-grepsr).
 
 <p>
-  <a href="https://oshanshrestha.com.np/"><img alt="Website" src="https://img.shields.io/badge/Website-oshanshrestha.com.np-0A66C2?style=flat-square"></a>
-  <a href="https://github.com/shresthaoshan"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-shresthaoshan-181717?style=flat-square&logo=github"></a>
-  <a href="https://twitter.com/shrestha_oshan"><img alt="X" src="https://img.shields.io/badge/X-@shrestha__oshan-000000?style=flat-square&logo=x"></a>
+  <a href="https://oshanshrestha.com.np/"><img alt="Website" src="https://img.shields.io/badge/www-oshanshrestha.com.np-0A66C2?style=flat-square&logo=globe"></a>
+  <a href="https://instagram.com/shresthaoshan"><img alt="Instagram" src="https://img.shields.io/badge/-shresthaoshan-E4405F?style=flat-square&logo=instagram"></a>
+  <a href="https://twitter.com/shrestha_oshan"><img alt="X" src="https://img.shields.io/badge/-@shrestha__oshan-000000?style=flat-square&logo=x"></a>
 </p>
 
 ---
